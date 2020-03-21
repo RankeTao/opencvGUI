@@ -14,6 +14,7 @@ You also can access to tutourials at [BiliBili website](https://www.bilibili.com
 |PyQt5-sip     |12.7.1
 |PyQt5-stubs   |5.13.1.4
 |pyqt5-tools   |5.13.0.1.5
+|python        |3.7.5 64-bit
 |python-dotenv |0.12.0
 |setuptools    |40.8.0
 
